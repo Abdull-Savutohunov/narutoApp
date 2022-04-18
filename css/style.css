@@ -62,7 +62,6 @@
 } 
 .menu_btn.active img{ 
     transform: rotate(180deg); 
-
 } 
 .menu_btn img{
     width: 25px; 
@@ -82,7 +81,6 @@
 .addHero{
     margin-top: 100%;
 }
-
 button{
     border: none !important;
 }

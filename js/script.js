@@ -124,7 +124,6 @@ const database = [
 const $container = document.querySelector('.row')
 const $serch = document.querySelector('.search')
 const $select = document.querySelector('.select')
-const back = document.querySelector('.back')
 const $navbar = document.querySelector('.navbar'); 
 const $btn = document.querySelector('.menu_btn'); 
 const $signAdmin = document.querySelector('.addHero')
