@@ -130,6 +130,7 @@ const $signAdmin = document.querySelector('.addHero')
 const $btnBg = document.querySelector('.addBackground')
 const $ColorBg = document.querySelector('.chooseColor')
 const $UrlBg = document.querySelector('.chooseURL')
+const back = document.querySelector('.back')
 
 
 window.addEventListener('load', () => {
